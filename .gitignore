@@ -2,6 +2,6 @@
 obj/
 bin/
 
-#ignore all hidden files include .gitignore
+#ignore all hidden files include 
 .*
 !/.gitignore
